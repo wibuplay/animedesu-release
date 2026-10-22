@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.1",
-  "apk": "https://github.com/wibuplay/animedesu-release/releases/download/v1.0.1/app-release.apk",
-  "notes": "- PERBAIKAN SYSTEM RESOLVE\n- KALO ADA ERROR LAPOR DI SL"
+  "latest": "1.0.2",
+  "apk": "https://github.com/wibuplay/animedesu-release/releases/download/v1.0.2/app-release.apk",
+  "notes": "UPDATE BUILD 3 ✨\n\n- PENAMBAHAN SYSTEM MAINTENANCE\n- PERBAIKAN SYSTEM RESOLVER UNTUK ANIME OLD YG GK SUPPORT MP4 & M3U8\n- PENAMBAHAN KETERANGAN UPDATE ANIME ONGOING\n- PENAMBAHAN FEEDBACK DI HALAMAN PENGATURAN (UNTUK REQUEST DAN LAPORAN BUG)\n- PENAMBAHAN KOTAK MASUK & SISTEM BALASAN KOMENTAR"
 }
