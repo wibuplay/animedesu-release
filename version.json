@@ -1,5 +1,6 @@
 {
-  "latest": "1.0.6",
-  "apk": "https://github.com/wibuplay/animedesu-release/releases/download/v1.0.6/app-release.apk",
+  "latest": "1.0.7",
+  "build": 8,
+  "apk": "https://github.com/wibuplay/animedesu-release/releases/download/v1.0.7/app-release.apk",
   "notes": "UPDATE BUILD 7 ✨\n\n- PERBAIKAN RESOLVER EPISODE\n- PENAMBAHAN FITUR SHARE ANIME\n- PENAMBAHAN STIKER DI CHAT PUBLIK"
 }
