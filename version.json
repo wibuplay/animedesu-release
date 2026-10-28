@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.5",
-  "apk": "https://github.com/wibuplay/animedesu-release/releases/download/v1.0.5/app-release.apk",
-  "notes": "UPDATE BUILD 6 ✨\n\n- DOWNLOAD ANIME EPS 1-END\n- PENAMBAHAN HALAMAN JADWAL UPCOMING ANIME 2027 (SEDANG DICOBA)\n- PENAMBAHAN MANGA SUB ID & EN\n- PENAMBAHAN KOMIK SUB ID & EN\n- SYSTEM LEADERBOARD, LVL & XP\n- PENAMBAHAN RANK\n- PENAMBAHAN ANIMASI MUSIC DIBAWAH NICKNAME"
+  "latest": "1.0.6",
+  "apk": "https://github.com/wibuplay/animedesu-release/releases/download/v1.0.6/app-release.apk",
+  "notes": "UPDATE BUILD 7 ✨\n\n- PERBAIKAN RESOLVER EPISODE\n- PENAMBAHAN FITUR SHARE ANIME\n- PENAMBAHAN STIKER DI CHAT PUBLIK"
 }
