@@ -1,6 +1,6 @@
 {
-  "latest": "2.0.0",
-  "build": 11,
-  "apk": "https://github.com/wibuplay/animedesu-release/releases/download/v2.0.0/app-release.apk",
-  "notes": "UPDATE 2.0 ✨\n\n- PERGANTIAN SERVER ANIME\n- RESOLUSI 1080P (PREMIUM USER)\n- DOWNLOAD EPS DILATAR BELAKANG"
+  "latest": "2.1.0",
+  "build": 12,
+  "apk": "https://github.com/wibuplay/animedesu-release/releases/download/v2.1.0/app-release.apk",
+  "notes": "UPDATE 2.1.0 ✨\n\n- PERBAIKI SYSTEM SEARCH\n- KIRIM FOTO/VIDEO DI ROOM PUBLIK\n- FITUR PERTEMANAN DAN CHAT PRIVAT\n- KUNCI LAYAR SAAT NONTON\n- SHARE ANIME MULTI PLATFORM"
 }
